@@ -8,10 +8,12 @@ See example.php or example.cpp for the usage and results.
 
 
 
-Have fun using it.
+Have fun using it!
 
 Regards
+
 -delair
 
 Key Mention - Original Dev
+
 -gehaxelt - (http://junkcode.gehaxelt.in/)
