@@ -1,8 +1,9 @@
-C++-JunkCodeGenerator
+C++ Junk-code Generator
 ========================
 
 This is a C++ junkcode class generator, which will generate random classes with nonesense.
-It's written in PHP, so you can host it on your webserver if you like!
+It's written in PHP, so you can host it on your webserver if you want!
+Cheeky I know.
 
 See example.php or example.cpp for the usage and results.
 
@@ -13,6 +14,5 @@ Regards
 -delair
 
 
-
-Key Mention - Original Dev
--gehaxelt - (http://junkcode.gehaxelt.in/)
+### Huge credit to the OG Dev
+-[gehaxelt](http://junkcode.gehaxelt.in/)
