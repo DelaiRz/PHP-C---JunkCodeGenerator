@@ -9,10 +9,10 @@ See example.php or example.cpp for the usage and results.
 
 Have fun using it!
 
-Regards
+Regards,
 
 -delair
 
 
 ### Huge credit to the OG Dev
--[gehaxelt](http://junkcode.gehaxelt.in/)
+- [gehaxelt](http://junkcode.gehaxelt.in/)
